@@ -1,0 +1,15 @@
+langchain_openai
+langchain_core
+langchain_community
+python-dotenv
+streamlit
+langserve
+langchain
+sentence-transformers
+flask
+pypdf
+langchain_pinecone
+langchain_experimental
+pinecone-client
+pinecone[grpc]
+-e .
